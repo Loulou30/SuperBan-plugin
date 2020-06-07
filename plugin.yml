@@ -1,0 +1,9 @@
+name: SuperBan
+version: 1.0.0
+author: Loulou30140
+main: fr.loulou.plugin.Main
+commands:
+  sb:
+    description: Ban Command
+    permission: superban.sb
+    aliases: [ss, superban, bangui]
